@@ -14,7 +14,7 @@ const routes: Routes = [
         path: '.',
         component: WaitListPageComponent,
         data: {
-          title: 'Collaborare'
+          title: 'RareScope'
         },
       },
       {
@@ -28,14 +28,14 @@ const routes: Routes = [
         path: 'aboutus',
         component: AboutUsPageComponent,
         data: {
-          title: 'About collaborare'
+          title: 'About RareScope'
         }
       },
       {
         path: 'behind',
         component: BehindPageComponent,
         data: {
-          title: 'Behind collaborare'
+          title: 'Behind RareScope'
         }
       }
     ]
